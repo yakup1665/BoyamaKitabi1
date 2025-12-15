@@ -424,9 +424,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DrawWhitMouse
   linePrefab: {fileID: 2184889924819306836, guid: 7d0800653650f4647a0a7913561e2daa, type: 3}
-  lineWidth: 0.05
+  lineWidth: 0.5
   brushColor: {r: 1, g: 0, b: 0, a: 1}
-  cornerSmoothness: 5
+  cornerSmoothness: 50
   minDistance: 0.1
   zDepth: 10
 --- !u!4 &498213987
